@@ -5,7 +5,7 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:L003"
         mc:Ignorable="d"
-        Title="第三课" Height="450" Width="800" Icon="t01ff301202a63b4ca5.png" WindowStartupLocation="Manual">
+        Title="第三课" Height="450" Width="800" Icon="icon.jpg" WindowStartupLocation="Manual">
     <Grid>
         <Button Content="Button" HorizontalAlignment="Left" Height="75" Margin="210,125,0,0" VerticalAlignment="Top" Width="210" Click="Button_Click"/>
         <Button Content="Button" HorizontalAlignment="Left" Height="65" Margin="510,88,0,0" VerticalAlignment="Top" Width="185" Click="Button_Click_1"/>
